@@ -4,6 +4,7 @@
 Unsupervised clustering on the Iris dataset using KMeans and PCA for visualization.
 
 ## Steps
+- Scaling
 - KMeans clustering
 - PCA visualization
 
